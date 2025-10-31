@@ -1,12 +1,8 @@
 <h1 align="center">📊 Excel Sales Dashboard</h1>
 
-<p align="center">
-  <img src="https://github.com/yourusername/your-repo-name/blob/main/screenshot1.png" alt="Sales Dashboard Overview" width="800">
-</p>
-
 <h2>📘 Project Overview</h2>
 <p>
-  This <strong>Excel Sales Dashboard</strong> provides a complete overview of business performance across multiple dimensions — including <strong>Sales, Profit, Customers, and Product Categories</strong>.  
+  This <strong>Excel Sales Dashboard</strong> provides a complete overview of business performance across multiple dimensions   including <strong>Sales, Profit, Customers, and Product Categories</strong>.  
   It is designed to help stakeholders monitor sales trends, identify top-performing states, track customer growth, and analyze profits over time with an interactive and visual approach.
 </p>
 
@@ -49,7 +45,7 @@
 
 <h2>🖼️ Dashboard Preview</h2>
 <p align="center">
-  <img src="https://github.com/yourusername/your-repo-name/blob/main/screenshot2.png" alt="Excel Dashboard Preview" width="800">
+<img width="1895" height="772" alt="Screenshot 2025-10-28 161725" src="https://github.com/user-attachments/assets/6be01b79-56ab-4885-8170-1ea341bdf248" />
 </p>
 
 <h2>🚀 How to Use</h2>
@@ -60,4 +56,4 @@
   <li>Interact with charts to explore trends, customers, and profitability.</li>
 </ol>
 
-<img width="1895" height="772" alt="Screenshot 2025-10-28 161725" src="https://github.com/user-attachments/assets/6be01b79-56ab-4885-8170-1ea341bdf248" />
+
